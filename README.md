@@ -86,6 +86,8 @@ These are the years-of-introduction of various notable frameworks and library co
 
 - Aura (essentially Solar 2): <http://paul-m-jones.com/archives/1738>
 
+- Canis: <https://github.com/alesanchezr/Canis>
+
 - Slim 1.0: <https://github.com/codeguy/Slim/wiki/Road-Map#version-10-released-november-2-2010>
 
 ## 2011
